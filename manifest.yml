@@ -1,8 +1,8 @@
 applications:
-- name: natural-language-understanding-demo
+- name: ibmcloud-nlu
   path: .
   buildpack: sdk-for-nodejs
   command: npm start
-  memory: 512M
+  memory: 256M
   services:
-  - my-nlu-service
+  - mrs-nlu
