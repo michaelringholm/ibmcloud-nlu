@@ -1,5 +1,8 @@
 # Natural Language Understanding Application [![Build Status](https://travis-ci.org/watson-developer-cloud/natural-language-understanding-nodejs.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/natural-language-understanding-nodejs?branch=master)
 
+# Version
+1.2
+
 Natural Language Understanding is a collection of APIs that offer text analysis through natural language processing. This set of APIs can analyze text to help you understand its concepts, entities, keywords, sentiment, and more. Additionally, you can create a custom model for some APIs to get specific results that are tailored to your domain.
 
 [![Demo](demo.gif)](https://natural-language-understanding-demo.mybluemix.net)
